@@ -1,4 +1,4 @@
-﻿# TP Git & Github
+﻿# TP Git & Github - Test
 
 Ce TP fait suite à un cours théorique qui présente Git et Github.
 Les slides sont disponibles ici : https://speakerdeck.com/volpeo/introduction-a-git
