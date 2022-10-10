@@ -1,4 +1,6 @@
-﻿# TP Git & Github
+﻿Eric Vigla https://github.com/sckaper
+
+# TP Git & Github
 
 Ce TP fait suite à un cours théorique qui présente Git et Github.
 
