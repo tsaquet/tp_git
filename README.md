@@ -331,3 +331,4 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Vitor Sousa - <https://github.com/rd-xx>
 - Julien HAMEL - <https://github.com/Zweird-958>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
+- Kylian Barthelemy - <https://github.com/KyDev25>
