@@ -332,3 +332,4 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Julien HAMEL - <https://github.com/Zweird-958>
 - Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
+- Léon Cariou - <https://github.com/theghost013>
