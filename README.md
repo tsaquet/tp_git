@@ -332,3 +332,6 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Julien HAMEL - <https://github.com/Zweird-958>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
 - Baptiste BOISSONNET - <https://github.com/Baptistebsnt>
+- Magali DESLOUS-PAOLI <https://github.com/Magali-D>
+- Ken KOBLAVI-DIBI - <https://github.com/ViewKen1>
+- Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
