@@ -268,7 +268,7 @@ N'oubliez pas de vous placer dans un autre répertoire que flappy_clone pour clo
 
 Une fois le dépôt téléchargé sur votre machine, vous avez accès à l'historique (et donc vous verrez mes différents commits qui suivent l'évolution de ce document, mes fautes de frappes corrigées, etc.).
 
-Éditez le README.md, et ajouter y votre nom et prénom ainsi que l'url de votre compte GitHub en suivant le modèle établi (Si vous avez trouvé des fautes d'orthographe dans ce tutoriel, n'hésitez pas à les corriger).
+Éditez le README.md, et ajoutez y votre nom et prénom ainsi que l'url de votre compte GitHub en suivant le modèle établi (Si vous avez trouvé des fautes d'orthographe dans ce tutoriel, n'hésitez pas à les corriger).
 
 Commitez le tout et envoyez le code vers le dépôt distant.
 
@@ -334,3 +334,4 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Ken KOBLAVI-DIBI - <https://github.com/ViewKen1>
 - Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
+- Anatole KIEFFER - <https://github.com/AnatoleKieffer>
