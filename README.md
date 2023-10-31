@@ -333,4 +333,5 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Magali DESLOUS-PAOLI <https://github.com/Magali-D>
 - Ken KOBLAVI-DIBI - <https://github.com/ViewKen1>
 - Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
-- Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
+- Bruno GOMES PEIXOTO - <https://github.com/SeRiice
+- Youness MOSTEFAOUI - <https://github.com/YounessMostefaoui>
