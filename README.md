@@ -335,4 +335,4 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Ken KOBLAVI-DIBI - <https://github.com/ViewKen1>
 - Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
-- Lucas BUTYNSKI -<https://github.com/Lbutynski>
+- Lucas BUTYNSKI - <https://github.com/Lbutynski>
