@@ -284,6 +284,7 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 
 ## 8. Élèves ayant validé ce cours d'initiation
 
+- Mathis RENAUDIN - <https://github.com/Mathis95c>
 - Nora SEDJAI - <https://github.com/NoraSEDJAI>
 - Rohat GEZER - <https://github.com/Rohat954>
 - Sylvain Peigney - <https://github.com/volpeo>
