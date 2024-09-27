@@ -334,3 +334,5 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 - Ken KOBLAVI-DIBI - <https://github.com/ViewKen1>
 - Clarisse ROUYERE - <https://github.com/ClarisseRouyere>
 - Bruno GOMES PEIXOTO - <https://github.com/SeRiice>
+- Daniil GURIN - <https://github.com/Oc3an-Spag3tti>
+
