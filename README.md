@@ -284,6 +284,7 @@ Une fois réalisée, vous pouvez observer sur le projet original toutes les prop
 
 ## 8. Élèves ayant validé ce cours d'initiation
 
+- Clément BALOUP - <https://github.com/Itaazz>
 - Nora SEDJAI - <https://github.com/NoraSEDJAI>
 - Rohat GEZER - <https://github.com/Rohat954>
 - Sylvain Peigney - <https://github.com/volpeo>
